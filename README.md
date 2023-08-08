@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mohitnippanikar@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Interested in Networking and Editing
 
 <br>
 
