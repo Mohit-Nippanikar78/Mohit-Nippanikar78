@@ -1,33 +1,75 @@
-<h1 align="center">Hi, I'm Mohit Nippanikar</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h1 align="center" style="font-size: 3rem; font-weight: bold; background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent; animation: fadeIn 2s ease-in-out; text-shadow: 2px 2px 5px rgba(0,0,0,0.3);">🚀 Mohit Nippanikar 🚀</h1>
 
+<h3 align="center" style="animation: slideIn 1.5s ease-in-out; font-size: 1.5rem; font-weight: 600;">Full-Stack Developer | NLP | Cloud | Competitive Coder</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-nippanikar78" alt="mohit-nippanikar78" /></a> </p>
+<p align="center" style="font-size: 1.2rem; font-weight: 500; animation: fadeIn 2.5s ease-in-out; max-width: 80%; margin: auto;">Driven by innovation, I thrive on building impactful projects that address real-world challenges.</p>
 
-- 🔭 I’m currently working on **Youtube Clone**
+---
 
-- 🌱 I’m currently learning **Machine Learning**
+<h3 align="left">🚀 Currently Working On:</h3>
+<ul>
+  <li>🔭 An <strong>AI-Driven Financial Advisor for Personal Investments</strong></li>
+  <li>🌱 Exploring <strong>Machine Learning and Cloud Technologies</strong></li>
+</ul>
 
-- 💬 Ask me about **React**
+---
 
-- 📫 How to reach me **rnippanikar7@gmail.com**
+<h3 align="left">💡 Expertise:</h3>
+<ul>
+  <li>💬 Ask me about <strong>React, Node.js, NLP, Cloud (AWS, Docker), and Competitive Coding</strong></li>
+  <li>📫 Reach me at <strong>rnippanikar7@gmail.com</strong></li>
+  <li>📄 My Resume: <a href="https://bit.ly/mohitnippanikarresume">bit.ly/mohitnippanikarresume</a></li>
+  <li>⚡ Fun fact: <strong>I strive to be an all-rounder in tech and leadership.</strong></li>
+</ul>
 
-- 📄 Know about my experiences [bit.ly/mohitnippanikarresume](bit.ly/mohitnippanikarresume)
+---
 
-- ⚡ Fun fact **Want to be all rounder**
+<h3 align="left">🏆 Achievements:</h3>
+<ul>
+  <li>🥇 **Winner of DIGIHUNT 5.0 and 1st place in IGNITE 2022.**</li>
+  <li>🎖️ **Awarded Certificate of Appreciation for College Events Management (2022-2023, 2023-2024).**</li>
+  <li>🏅 **React Developer Intern - Built Two Full-Fledged Websites.**</li>
+  <li>👥 **Led a team of 100+ students (2022-2024), managing 8+ inter-college events.**</li>
+  <li>📚 **Consistently High Academic Performance (86% - 96% in All Examinations).**</li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-nippanikar-739039234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-nippanikar-739039234/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/o_mohit_x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/o_mohit_x/" height="30" width="40" /></a>
+---
+
+<h3 align="left">🔗 Connect with Me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/mohit-nippanikar-739039234/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/o_mohit_x/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-nippanikar78&show_icons=true&locale=en&layout=compact" alt="mohit-nippanikar78" /></p>
+<h3 align="left">🛠️ Tech Stack:</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,mysql,tailwind,typescript,docker,aws" alt="Tech Stack" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit-nippanikar78&show_icons=true&locale=en" alt="mohit-nippanikar78" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-nippanikar78&" alt="mohit-nippanikar78" /></p>
+<h3 align="center">📊 GitHub Stats:</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-nippanikar78&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mohit-nippanikar78&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-nippanikar78&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<style>
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+@keyframes slideIn {
+  0% { transform: translateY(-20px); opacity: 0; }
+  100% { transform: translateY(0); opacity: 1; }
+}
+</style>
