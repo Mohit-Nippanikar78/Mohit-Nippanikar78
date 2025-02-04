@@ -48,28 +48,8 @@
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,mysql,tailwind,typescript,docker,aws" alt="Tech Stack" />
 </p>
 
----
-
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-nippanikar78&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mohit-nippanikar78&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-nippanikar78&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-@keyframes slideIn {
-  0% { transform: translateY(-20px); opacity: 0; }
-  100% { transform: translateY(0); opacity: 1; }
-}
-</style>
